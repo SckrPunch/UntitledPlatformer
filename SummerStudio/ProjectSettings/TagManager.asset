@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Physical
+  - Enemy
+  - Health
+  - Machine Parts
+  - Exit
+  - Tutorial Level 2
+  - Tutorial Level 3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Physical
+  - Other
+  - Collectables
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: OutFrame
+    uniqueID: 1996487843
+    locked: 0
+  - name: GameFrame
+    uniqueID: 1946439183
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ViewFinder
+    uniqueID: 875120521
+    locked: 0
